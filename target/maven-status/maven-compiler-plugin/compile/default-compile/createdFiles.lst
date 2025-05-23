@@ -1,0 +1,8 @@
+utils/DBConnection.class
+view/LoginView.class
+view/LoginViewFrame$1.class
+view/LoginViewFrame.class
+controller/LoginController.class
+model/User.class
+dao/UserDao.class
+com/mycompany/supermaket/Supermaket.class
