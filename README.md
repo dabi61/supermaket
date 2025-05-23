@@ -1,5 +1,5 @@
 <!-- author: dabi61 -->
-# Quản lý kho hàng máy tính
+# Quản lý siêu thị tiện ích
 Đồ án môn Lập trình hướng đối tượng sử dụng Java Swing + MySQL
 ## Getting Started
 
